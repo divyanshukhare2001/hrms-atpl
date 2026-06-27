@@ -442,4 +442,11 @@
   .btn-signin:hover::after { transform: translateX(100%); }
   .btn-signin:active { transform: translateY(0); }
 
+
+@media only screen and (max-width:819px){
+    .card-wrap{
+        flex-direction: column;
+    }
+}
+
 </style>
