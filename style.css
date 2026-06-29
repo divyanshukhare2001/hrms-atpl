@@ -41,7 +41,7 @@
 
 
   /* Floating blob orbs */
-  .orb {
+  /* .orb {
     position: fixed;
     border-radius: 50%;
     filter: blur(80px);
@@ -86,7 +86,7 @@
     height:100%;
 
     pointer-events:none;
-}
+} */
 
   .card-wrap {
     display: flex;
