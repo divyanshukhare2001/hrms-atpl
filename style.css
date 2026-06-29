@@ -453,4 +453,58 @@
     }
 }
 
+
+
+
+
+
+
+
+
+
+.slider-panel {
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+
+.login-panel {
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+
+.slider-logo {
+    margin-bottom: 36px !important;
+}
+
+div#slides {
+    justify-content: start;
+}
+
+.slide-icon-wrap {
+    width: 56px;
+    height: 56px;
+}
+
+.card-wrap {
+    min-height: 0 !important;
+}
+
+.slide-headline {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.slide-body {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.slide-stats {
+    margin-top: 28px;
+}
+
+body {
+    padding: 36px;
+}
+
 </style>
